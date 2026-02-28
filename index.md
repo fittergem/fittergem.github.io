@@ -1,3 +1,3 @@
 <div align="center">
-  [Projects](https://fittergem.github.io)
+  <a link="https://fittergem.github.io">Projects</a>
 </div>
