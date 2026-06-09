@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Home</h1>
-</div>
+  <img width="50%" alt="Home" src="https://github.com/user-attachments/assets/c1c007ea-6919-4931-b480-1f5a88c69ef3">
 
-<div align="center">
-  <a href="https://fittergem.github.io">About</a>
-  <a href="https://fittergem.github.io">Projects</a>
+  <p></p>
+
+  <a href="https://fittergem.github.io" style="text-decoration: none;">
+    <img width="15%" alt="About" src="https://github.com/user-attachments/assets/2e3d25fa-04c7-47da-a6b2-e92935a4c23d">
+  </a>
+
+  <a href="https://fittergem.github.io" style="text-decoration: none;">
+    <img width="15%" alt="Projects" src="https://github.com/user-attachments/assets/f1d0d624-8803-45fd-aa9f-af802941b888">
+  </a>
 </div>
 
 ## Notable Scripting & Development Projects
 
-* [**SpringService (Module)**]()
-* [**RoPhone (System)**]()
-* [**BloxyRoads (Plugin)**]()
-* [**Mianco Island (Game)**]()
-
-* [See all]()
+[<img width="100%" alt="SpringService Card" src="https://github.com/user-attachments/assets/b629a47e-5806-4592-ada2-e69bbe8c535c">]()
